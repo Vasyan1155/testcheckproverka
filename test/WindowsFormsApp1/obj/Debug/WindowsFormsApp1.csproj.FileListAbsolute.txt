@@ -1,0 +1,25 @@
+C:\Users\hog\Desktop\05.01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hog\Desktop\05.01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hog\Desktop\05.01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hog\Desktop\05.01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hog\Desktop\05.01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.auth.resources
+C:\Users\hog\Desktop\05.01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\hog\Desktop\05.01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hog\Desktop\05.01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reg.resources
+C:\Users\hog\Desktop\05.01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hog\Desktop\05.01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hog\Desktop\05.01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hog\Desktop\05.01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\hog\Desktop\05.01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Client.resources
+D:\ИС1-33\Андреев Восилюс\2102 предметная область\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ИС1-33\Андреев Восилюс\2102 предметная область\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ИС1-33\Андреев Восилюс\2102 предметная область\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ИС1-33\Андреев Восилюс\2102 предметная область\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\ИС1-33\Андреев Восилюс\2102 предметная область\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.auth.resources
+D:\ИС1-33\Андреев Восилюс\2102 предметная область\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Client.resources
+D:\ИС1-33\Андреев Восилюс\2102 предметная область\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\ИС1-33\Андреев Восилюс\2102 предметная область\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ИС1-33\Андреев Восилюс\2102 предметная область\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reg.resources
+D:\ИС1-33\Андреев Восилюс\2102 предметная область\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ИС1-33\Андреев Восилюс\2102 предметная область\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ИС1-33\Андреев Восилюс\2102 предметная область\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
